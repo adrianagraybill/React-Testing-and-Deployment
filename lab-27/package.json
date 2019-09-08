@@ -1,0 +1,49 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "### Author: Adriana",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "node-sass": "^4.12.0",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-jsonschema-form": "1.8.0",
+    "react-redux": "7.1.1",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "3.1.1",
+    "redux": "4.0.4",
+    "superagent": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianagraybill/Lab-27-React-Testing-and-Deployment.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianagraybill/Lab-27-React-Testing-and-Deployment/issues"
+  },
+  "homepage": "https://github.com/adrianagraybill/Lab-27-React-Testing-and-Deployment#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

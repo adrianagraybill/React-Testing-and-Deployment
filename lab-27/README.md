@@ -5,9 +5,9 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/adrianagraybill/Lab-27-React-Testing-and-Deployment/pull/1)
-
-
-
+- [travis]([![Build Status](https://travis-ci.com/adrianagraybill/Lab-27-React-Testing-and-Deployment.svg?branch=master)](https://travis-ci.com/adrianagraybill/Lab-27-React-Testing-and-Deployment))
+- [back-end](http://xyz.com)
+- [front-end](http://xyz.com)
 
 ## React Commands
 

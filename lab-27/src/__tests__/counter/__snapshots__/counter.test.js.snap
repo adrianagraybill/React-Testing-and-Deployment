@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Does counter work renders correctly 1`] = `
+<div
+  id="counter-container"
+>
+  <button
+    id="decrement"
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <span>
+    Count: 
+    0
+     
+  </span>
+  <button
+    id="increment"
+    onClick={[Function]}
+  >
+    +
+  </button>
+</div>
+`;

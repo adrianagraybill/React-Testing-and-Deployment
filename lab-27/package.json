@@ -33,7 +33,7 @@
   "bugs": {
     "url": "https://github.com/adrianagraybill/Lab-27-React-Testing-and-Deployment/issues"
   },
-  "homepage": "https://github.com/adrianagraybill/Lab-27-React-Testing-and-Deployment#readme",
+  "homepage": "https://tender-agnesi-e54dfa.netlify.com",
   "browserslist": {
     "production": [
       ">0.2%",

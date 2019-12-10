@@ -1,4 +1,4 @@
-# Lab-27-React-Testing-and-Deployment
+# React-Testing-and-Deployment
 
 ### Author: Adriana
 
